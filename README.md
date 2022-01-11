@@ -8,9 +8,9 @@ sboxGcp.csv - example CSV file that consists of Prisma Cloud
 
 **To import the accounts, run**
 
-_terraform init
+**terraform init**
 
-terraform apply_
+**terraform apply**
 
 
 Terraform used the selected providers to generate the following execution plan. Resource actions are
