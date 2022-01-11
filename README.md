@@ -18,7 +18,7 @@ indicated with the following symbols:
 
 Terraform will perform the following actions:
 
-  # prismacloud_cloud_account.bunnyfoo["BP-GCP-Testaccount"] will be created
+   prismacloud_cloud_account.bunnyfoo["BP-GCP-Testaccount"] will be created
   + resource "prismacloud_cloud_account" "bunnyfoo" {
       + disable_on_destroy = false
       + id                 = (known after apply)
@@ -59,7 +59,7 @@ indicated with the following symbols:
 
 Terraform will perform the following actions:
 
-  # prismacloud_cloud_account.bunnyfoo["BP-GCP-Testaccount"] will be destroyed
+   prismacloud_cloud_account.bunnyfoo["BP-GCP-Testaccount"] will be destroyed
   - resource "prismacloud_cloud_account" "bunnyfoo" {
       - disable_on_destroy = false -> null
       - id                 = "gcp:pcc-dev-sandbox" -> null
