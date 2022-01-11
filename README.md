@@ -9,6 +9,7 @@ sboxGcp.csv - example CSV file that consists of Prisma Cloud
 **To import the accounts, run**
 
 _terraform init
+
 terraform apply_
 
 
